@@ -1,0 +1,29 @@
+.styled-select {
+    display: inline;
+    width: 80px;
+    height: 30px;
+    overflow: hidden;
+}
+
+.styled-select select {
+    display: inline;
+    background: transparent;
+    width: 100px;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    height: 30px;
+    -webkit-appearance: none;
+}
+.content {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+}
+.contentinsearch {
+    float: left;
+    vertical-align: middle;
+}
+.detail {
+    background-color: #eee;
+}
